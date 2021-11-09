@@ -1,0 +1,23 @@
+**IMPORTANT: Please do not create a Pull Request without creating an issue first.**
+
+Name the PR branch with prefix: features/your-feature or fix/the-bug-name
+
+## Description
+Please provide enough information so that others can review your pull request
+
+## Related Issue
+Put `closes #XXXX` in your comment to auto-close the issue that your PR fixes (if such).
+
+## Motivation and Context
+Explain the **details** for making this change. What existing problem does the pull request solve?
+
+## How Has This Been Tested?
+Demonstrate the code is solid. 
+Provide the link to stage/dev site where the code has pushed to test.
+
+## Code location to review (necessary if there are multiple files with style changes)
+Provide the file and LOC that this PR changes. 
+Do not do massive code style changes especially for file that you don't edit
+
+## Screenshots/Videos (if appropriate):
+screenshots / videos if the pull request changes UI
